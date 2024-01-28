@@ -15,6 +15,3 @@ const calculator = {
     return this.a * this.b;
   }
 };
-
-module.exports = calculator;
-
