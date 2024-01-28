@@ -1,4 +1,3 @@
-/* eslint-disable import/no-unresolved */
 import readlineSync from 'readline-sync';
 
 const calculator = {
@@ -15,3 +14,4 @@ const calculator = {
     return this.a * this.b;
   }
 };
+export { calculator };
